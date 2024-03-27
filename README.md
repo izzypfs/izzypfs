@@ -5,37 +5,59 @@
 <br>
 - 🔭 Trabalho atualmente Estagiando na parte de Infra 
   <br>
-- <3 Faço faculdade de Análise e Desenvolvimento de Sistemas - 3°Semestre
+- 🌱Faço faculdade de Análise e Desenvolvimento de Sistemas - 3°Semestre
   <br>
-- 🌱 Estudando no momento JavaScript e MySQL
-  <br>
-- 💬 Pergunte-me sobre HTML, CSS, SQL Server ..
+- 💬 Aceito criticas e novas ideias para futuros projetos..
   <br>
 - 📫 contacte-me no email: izabellypontes16@gmail.com
   <br>
 
-### Main skills:
+<h2 align="left"> Main skills: </h2>
 <div align="left"> 
-  <img align="center" alt="Izzy-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="Izzy-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="Izzy-SQLSERVER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Izzy-DOCKER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Izzy-CANVA" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+  <img align="center" alt="Izzy-HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="Izzy-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="Izzy-SQLSERVER" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Izzy-DOCKER" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Izzy-CANVA" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
 </div>
 
+
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+<div align="left"> 
+
+<img align="left" alt="Izzy-JAVASCRIPT"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="Izzy-MYSQL"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="Izzy-PHP"  height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<img align="left" alt="Izzy-C#"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+
+</div>
+
+  <br>
+  <br>
+  <br>
+  <br>
 
   <br>
   <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izzypfs&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/izzypfs?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
 
