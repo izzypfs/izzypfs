@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Izabelly;I'm+18+years+old;I'm+a+Beginner+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
-- 🔭 Trabalho atualmente Estagiando na parte de Infra 
+- 🔭 Atualmente Estagiando na parte de Infra 
   <br>
 - 🌱Faço faculdade de Análise e Desenvolvimento de Sistemas - 3°Semestre
   <br>
@@ -11,14 +11,28 @@
   <br>
 - 📫 contacte-me no email: izabellypontes16@gmail.com
   <br>
+  
+  <br>
+  <br>
+ 
+  
+  <a href="https://github.com/izzypfs/izzypfs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izzypfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzypfs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<h2 align="left"> Main skills: </h2>
-<div align="left"> 
+  
+### .
+<h2 align="left"> Main skills:</h2>
   <img align="center" alt="Izzy-HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  
   <img align="center" alt="Izzy-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  
   <img align="center" alt="Izzy-SQLSERVER" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  
   <img align="center" alt="Izzy-DOCKER" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Izzy-CANVA" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+  
+  <img align="center" alt="Izzy-CANVA" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
 </div>
 
 
@@ -27,8 +41,6 @@
 
 
 <h2 align="left"> Studying in this moment: </h2>
-
-<div align="left"> 
 
 <img align="left" alt="Izzy-JAVASCRIPT"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -45,9 +57,10 @@
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
 
-  <br>
-  <br>
 
 <div align="center">
   
@@ -71,3 +84,6 @@
   <a href="https://www.linkedin.com/in/izabelly-souza-637603229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF1493&section=footer">
+
