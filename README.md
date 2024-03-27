@@ -5,17 +5,27 @@
 <br>
 - 🔭 Trabalho atualmente Estagiando na parte de Infra 
   <br>
-  ![image](https://github.com/izzypfs/izzypfs/assets/115184906/8f56309f-1aba-47f9-9fce-daee0021c1bd)
-
+- <3 Faço faculdade de Análise e Desenvolvimento de Sistemas - 3°Semestre
+  <br>
 - 🌱 Estudando no momento JavaScript e MySQL
   <br>
 - 💬 Pergunte-me sobre HTML, CSS, SQL Server ..
   <br>
 - 📫 contacte-me no email: izabellypontes16@gmail.com
   <br>
-  <br>
-  <br>
 
+### Main skills:
+<div align="left"> 
+  <img align="center" alt="Izzy-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="Izzy-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="Izzy-SQLSERVER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Izzy-DOCKER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Izzy-CANVA" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+</div>
+
+
+  <br>
+  <br>
 
 <div align="center">
   
@@ -23,16 +33,12 @@
 
 </div>
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Izzy-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="Izzy-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="Izzy-SQLSERVER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Izzy-DOCKER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Izzy-CANVA" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
+
   
   ##
  
