@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b](https://www.linkedin.com/in/leonardo-villela-b346aa94/overlay/background-image/?locale=en_US)"/>
+<img width=100% src="https://capsile-render.vercel.app/api?waving&color=#00008&height=120&section=header"/>
 <br>
 <br> 
 
