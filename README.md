@@ -5,10 +5,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Izabelly;I'm+18+years+old;I'm+a+Beginner+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
+<br>
+
 - 🔭 Hoje Trabalho Estagiando na parte de infra
+  <br>
 - 🌱 Estudando JavaScript e MySql
-- 💬 Pergunte-me sobre HTML, CSS, SQL Server ...
+  <br>
+- 💬 Pergunte-me sobre HTML, CSS, SQL Server ..
+  <br>
 - 📫 contacte-me no email: izabellypontes16@gmail.com
+  <br>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Izzy-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
