@@ -1,20 +1,27 @@
-<img width=100% src="https://capsile-render.vercel.app/api?waving&color=#00008&height=120&section=header"/>
-<br>
-<br> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Izabelly;I'm+18+years+old;I'm+a+Beginner+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Izabelly;I'm+18+years+old;I'm+a+Beginner+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
-<br>
-
-- 🔭 Hoje Trabalho Estagiando na parte de infra
+- 🔭 Trabalho atualmente Estagiando na parte de Infra 
   <br>
-- 🌱 Estudando JavaScript e MySql
+  ![image](https://github.com/izzypfs/izzypfs/assets/115184906/8f56309f-1aba-47f9-9fce-daee0021c1bd)
+
+- 🌱 Estudando no momento JavaScript e MySQL
   <br>
 - 💬 Pergunte-me sobre HTML, CSS, SQL Server ..
   <br>
 - 📫 contacte-me no email: izabellypontes16@gmail.com
   <br>
+  <br>
+  <br>
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
 
   
 <div style="display: inline_block"><br>
