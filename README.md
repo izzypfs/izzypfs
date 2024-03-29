@@ -9,7 +9,7 @@
   <br>
 - 💬 Aceito criticas e novas ideias para futuros projetos..
   <br>
-- 📫 contacte-me no email: izabellypontes16@gmail.com
+- 📫 Contacte-me no email: izabellypontes16@gmail.com
   <br>
   
   <br>
