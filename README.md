@@ -7,13 +7,13 @@
 <img width=100% src='https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0302.gif'/>
 <br>
 <br>
-- 👨‍💻 Atualmente Estagiando na parte de Infra 
+- 👨‍💻 Atualmente Estagiando na parte de Infraestrutura
   <br>
 - 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas - 3°Semestre
   <br>
 - 💬 Aceito criticas e novas ideias para futuros projetos..
   <br>
-- 📫 Contacte-me no email: izabellypontes16@gmail.com
+- 📫 Contacte-me no email: izabelly.souzapfs@gmail.com
   <br>
   
   <br>
